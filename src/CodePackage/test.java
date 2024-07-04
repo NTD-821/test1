@@ -11,6 +11,7 @@ class Studentt{
 	}
 	void display() {
 		System.out.println(i + name);
+		System.out.println("hello code");
 	}
 }
 public class test {
